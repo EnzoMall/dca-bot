@@ -23,4 +23,4 @@ while True:
     print(f"USDT dépensé : {order['cummulativeQuoteQty']} $")
     print("---------------------------------")
     
-    time.sleep(10)
+    time.sleep(86400)
